@@ -6,5 +6,7 @@ It is a "to-do" list small sample but with many useful features like adding, fil
 
 How to install and deploy:
 1 - run "npm install" command;
+
 2 - After that run "npm run dev" command to start with nodemon or "npm run production" command to start with pm2;
+
 3 - Your content is served at localhost:8080/todo-app.
